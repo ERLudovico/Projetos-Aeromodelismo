@@ -22209,3 +22209,71 @@
 2015-04-26 17:21:21,101 Trac[session] DEBUG: Retrieving session for ID 'b99b5e69df40d69958f06275'
 2015-04-26 17:21:21,640 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/common/trac.ico'">
 2015-04-26 17:21:21,681 Trac[session] DEBUG: Retrieving session for ID 'b99b5e69df40d69958f06275'
+2015-04-26 19:13:06,069 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/login'">
+2015-04-26 19:13:06,069 Trac[session] DEBUG: Retrieving session for ID 'ludovico'
+2015-04-26 19:13:06,084 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:06,134 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 19:13:06,161 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/wiki'">
+2015-04-26 19:13:06,161 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:06,164 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:06,183 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 19:13:06,184 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 19:13:06,220 Trac[formatter] DEBUG: Executing Wiki macro PageOutline by provider <trac.wiki.macros.PageOutlineMacro object at 0x048A9D10>
+2015-04-26 19:13:06,318 Trac[formatter] DEBUG: Executing Wiki macro TitleIndex by provider <trac.wiki.macros.TitleIndexMacro object at 0x048A9CB0>
+2015-04-26 19:13:06,480 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/site/your_project_logo.png'">
+2015-04-26 19:13:06,545 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/common/envelope.png'">
+2015-04-26 19:13:06,565 Trac[chrome] WARNING: File your_project_logo.png not found in any of ['d:\\dados ext\\bitnami trac stack projects\\projetos-aeromodelismo\\htdocs']
+2015-04-26 19:13:06,565 Trac[main] WARNING: [127.0.0.1] HTTPNotFound: 404 Not Found (File your_project_logo.png not found)
+2015-04-26 19:13:06,566 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:06,618 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:06,677 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:06,737 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 19:13:12,275 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/wiki/WikiStart'">
+2015-04-26 19:13:12,276 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:12,279 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:12,313 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 19:13:12,315 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 19:13:12,543 Trac[formatter] DEBUG: Executing Wiki macro PageOutline by provider <trac.wiki.macros.PageOutlineMacro object at 0x048A9D10>
+2015-04-26 19:13:12,634 Trac[formatter] DEBUG: Executing Wiki macro TitleIndex by provider <trac.wiki.macros.TitleIndexMacro object at 0x048A9CB0>
+2015-04-26 19:13:12,752 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/common/js/wikitoolbar.js'">
+2015-04-26 19:13:12,809 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:12,849 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/common/js/resizer.js'">
+2015-04-26 19:13:12,884 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:12,924 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/common/js/auto_preview.js'">
+2015-04-26 19:13:12,950 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:13,025 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/site/your_project_logo.png'">
+2015-04-26 19:13:13,061 Trac[chrome] WARNING: File your_project_logo.png not found in any of ['d:\\dados ext\\bitnami trac stack projects\\projetos-aeromodelismo\\htdocs']
+2015-04-26 19:13:13,062 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/common/draft.png'">
+2015-04-26 19:13:13,062 Trac[main] WARNING: [127.0.0.1] HTTPNotFound: 404 Not Found (File your_project_logo.png not found)
+2015-04-26 19:13:13,062 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:13,069 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:13,131 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:13,132 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 19:13:13,213 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/common/edit_toolbar.png'">
+2015-04-26 19:13:13,252 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:29,871 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 19:13:29,872 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:29,878 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:29,910 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 19:13:29,911 Trac[formatter] DEBUG: Executing Wiki macro PageOutline by provider <trac.wiki.macros.PageOutlineMacro object at 0x048A9D10>
+2015-04-26 19:13:29,994 Trac[formatter] DEBUG: Executing Wiki macro TitleIndex by provider <trac.wiki.macros.TitleIndexMacro object at 0x048A9CB0>
+2015-04-26 19:13:34,437 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki/WikiStart'">
+2015-04-26 19:13:34,438 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:34,441 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:34,464 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 19:13:34,466 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 19:13:34,480 Trac[session] INFO: Refreshing session ludovico
+2015-04-26 19:13:34,482 Trac[session] DEBUG: Purging old, expired, sessions.
+2015-04-26 19:13:34,509 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/wiki/WikiStart'">
+2015-04-26 19:13:34,509 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:34,510 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:34,530 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 19:13:34,532 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 19:13:34,569 Trac[formatter] DEBUG: Executing Wiki macro PageOutline by provider <trac.wiki.macros.PageOutlineMacro object at 0x048A9D10>
+2015-04-26 19:13:34,668 Trac[formatter] DEBUG: Executing Wiki macro TitleIndex by provider <trac.wiki.macros.TitleIndexMacro object at 0x048A9CB0>
+2015-04-26 19:13:34,778 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/site/your_project_logo.png'">
+2015-04-26 19:13:34,861 Trac[chrome] WARNING: File your_project_logo.png not found in any of ['d:\\dados ext\\bitnami trac stack projects\\projetos-aeromodelismo\\htdocs']
+2015-04-26 19:13:34,861 Trac[main] WARNING: [127.0.0.1] HTTPNotFound: 404 Not Found (File your_project_logo.png not found)
+2015-04-26 19:13:34,862 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 19:13:34,865 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 19:13:34,921 Trac[chrome] DEBUG: Prepare chrome data for request
