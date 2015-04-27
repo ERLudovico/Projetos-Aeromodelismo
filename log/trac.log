@@ -22436,3 +22436,62 @@
 2015-04-26 21:14:39,125 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
 2015-04-26 21:14:39,131 Trac[main] DEBUG: Negotiated locale: None -> en_US
 2015-04-26 21:14:39,198 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 21:15:48,891 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/wiki/AeroModelismo/FPV'">
+2015-04-26 21:15:48,894 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:15:48,895 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:15:48,937 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:15:48,938 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 21:15:49,151 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/site/your_project_logo.png'">
+2015-04-26 21:15:49,266 Trac[chrome] WARNING: File your_project_logo.png not found in any of ['d:\\dados ext\\bitnami trac stack projects\\projetos-aeromodelismo\\htdocs']
+2015-04-26 21:15:49,266 Trac[main] WARNING: [127.0.0.1] HTTPNotFound: 404 Not Found (File your_project_logo.png not found)
+2015-04-26 21:15:49,269 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:15:49,285 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:15:49,361 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 21:16:12,042 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:16:12,042 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:16:12,045 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:16:12,063 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:16:31,822 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:16:31,823 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:16:31,828 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:16:31,858 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:17:25,020 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:17:25,023 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:17:25,026 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:17:25,065 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:17:31,640 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:17:31,641 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:17:31,644 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:17:31,668 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:17:36,584 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:17:36,585 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:17:36,588 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:17:36,612 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:17:50,940 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:17:50,940 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:17:50,944 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:17:50,974 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:18:08,453 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:18:08,454 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:18:08,457 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:18:08,483 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:18:25,769 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki_render'">
+2015-04-26 21:18:25,770 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:18:25,776 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:18:25,805 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:18:30,280 Trac[main] DEBUG: Dispatching <RequestWithSession "POST '/wiki/AeroModelismo/FPV'">
+2015-04-26 21:18:30,282 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:18:30,285 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:18:30,315 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:18:30,318 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 21:18:30,362 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/wiki/AeroModelismo/FPV'">
+2015-04-26 21:18:30,364 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:18:30,365 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:18:30,385 Trac[api] WARNING: Unable to find repository '(default)' for synchronization
+2015-04-26 21:18:30,387 Trac[chrome] DEBUG: Prepare chrome data for request
+2015-04-26 21:18:30,586 Trac[main] DEBUG: Dispatching <RequestWithSession "GET '/chrome/site/your_project_logo.png'">
+2015-04-26 21:18:30,684 Trac[chrome] WARNING: File your_project_logo.png not found in any of ['d:\\dados ext\\bitnami trac stack projects\\projetos-aeromodelismo\\htdocs']
+2015-04-26 21:18:30,684 Trac[main] WARNING: [127.0.0.1] HTTPNotFound: 404 Not Found (File your_project_logo.png not found)
+2015-04-26 21:18:30,686 Trac[session] DEBUG: Retrieving session for ID u'ludovico'
+2015-04-26 21:18:30,690 Trac[main] DEBUG: Negotiated locale: None -> en_US
+2015-04-26 21:18:30,743 Trac[chrome] DEBUG: Prepare chrome data for request
